@@ -3,7 +3,7 @@
     "topicPlus": "technology stack",
 
     "topic1Title": "Star Chat",
-    "topic1Text": "A chat application where all text is written in a Star Wars-inspired style",
+    "topic1Text": "A chat application where all text is written in a Star Wars-inspired style. (Development time: 2 months)",
     "topic1List": [
         "MVVM",
         "REST",
@@ -19,7 +19,7 @@
     ],
 
     "topic2Title": "Audio Programming (old)",
-    "topic2Text": "An app that aims to detect rhythms in music",
+    "topic2Text": "An app that aims to detect rhythms in music. (Development Time: 2 months (I studied a lot of math))",
     "topic2List": [
         "AudioRecord",
         "AudioManager",
@@ -32,7 +32,7 @@
     ],
 
     "topic3Title": "Mind Map application (old)",
-    "topic3Text": "A program for creating mind maps",
+    "topic3Text": "A program for creating mind maps. (Development Time: 6 months)",
     "topic3List": [
         "Android Studio",
 	"Java",
@@ -48,7 +48,7 @@
     ],
 
     "topic4Title": "GPS Golf (old)",
-    "topic4Text": "An AR golf game played using mobile GPS navigation",
+    "topic4Text": "An AR golf game played using mobile GPS navigation (Development Time: 2 months)",
     "topic4List": [
         "Visual Studio",
         "C#",
@@ -59,7 +59,7 @@
     ],
 
     "topic5Title": "CSAMMA",
-    "topic5Text": "CSAMMA (Cosine Search Automatic Mind Map Application) is a full-stack application that automatically creates a mind map from a given website using web scraping and search terms. For example, if you enter the word 'fish' in the search field, the application generates a mind map of website domains related to the word 'fish'.",
+    "topic5Text": "CSAMMA (Cosine Search Automatic Mind Map Application) is a full-stack application that automatically creates a mind map from a given website using web scraping and search terms. For example, if you enter the word 'fish' in the search field, the application generates a mind map of website domains related to the word 'fish'. (Development Time: 1 week)",
     "topic5List": [
         "Spring Boot",
         "MySQL",
@@ -72,7 +72,7 @@
     ],
 
     "topic6Title": "AfricanRockPython",
-    "topic6Text": "Application that can generate assembly recommendations for computer parts based on user choices. The project was originally intended to practice design patterns, and about 12 of them have been used in the project. The application selects compatible components using compatibility data and user preferences regarding price range and computer usage.",
+    "topic6Text": "Application that can generate assembly recommendations for computer parts based on user choices. The project was originally intended to practice design patterns, and about 12 of them have been used in the project. The application selects compatible components using compatibility data and user preferences regarding price range and computer usage. (Development Time: 4 months)",
     "topic6List": [
         "Spring Boot",
         "Hibernate",
@@ -89,7 +89,7 @@
     ],
 
     "topic7Title": "Boolean Algebra Visualizer",
-    "topic7Text": "Application that generates a visual representation of a boolean algebra problem",
+    "topic7Text": "Application that generates a visual representation of a boolean algebra problem (Development Time: 1 week)",
     "topic7List": [
         "C++",
         "Chain of Responsibility"
