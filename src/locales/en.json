@@ -1,0 +1,119 @@
+
+{
+    "topicPlus": "technology stack",
+
+    "topic1Title": "Star Chat",
+    "topic1Text": "A chat application where all text is written in a Star Wars-inspired style",
+    "topic1List": [
+        "MVVM",
+        "REST",
+        "Notifications",
+	"Java",
+        "Content Resolver",
+        "OpenGL",
+        "MotionEvent",
+        "Firebase",
+        "Permission management",
+        "Mockito",
+        "Espresso"
+    ],
+
+    "topic2Title": "Audio Programming (old)",
+    "topic2Text": "An app that aims to detect rhythms in music",
+    "topic2List": [
+        "AudioRecord",
+        "AudioManager",
+        "Timer",
+	"Java",
+        "Multithreading",
+        "AudioTrack",
+        "OpenGL",
+        "FFT"
+    ],
+
+    "topic3Title": "Mind Map application (old)",
+    "topic3Text": "A program for creating mind maps",
+    "topic3List": [
+        "Android Studio",
+	"Java",
+        "Canvas",
+        "Internal and external storage",
+        "CustomView",
+        "XML",
+        "Bitmap",
+        "RecyclerView",
+        "ListView",
+        "Adapters",
+        "Touch events"
+    ],
+
+    "topic4Title": "GPS Golf (old)",
+    "topic4Text": "An AR golf game played using mobile GPS navigation",
+    "topic4List": [
+        "Visual Studio",
+        "C#",
+        "Unity",
+        "Google Cloud",
+        "Permission management",
+        "GPS"
+    ],
+
+    "topic5Title": "CSAMMA",
+    "topic5Text": "CSAMMA (Cosine Search Automatic Mind Map Application) is a full-stack application that automatically creates a mind map from a given website using web scraping and search terms. For example, if you enter the word 'fish' in the search field, the application generates a mind map of website domains related to the word 'fish'.",
+    "topic5List": [
+        "Spring Boot",
+        "MySQL",
+        "SQL",
+        "JavaScript",
+	"Java",
+        "React",
+        "Jsoup",
+        "Language models"
+    ],
+
+    "topic6Title": "AfricanRockPython",
+    "topic6Text": "Application that can generate assembly recommendations for computer parts based on user choices. The project was originally intended to practice design patterns, and about 12 of them have been used in the project. The application selects compatible components using compatibility data and user preferences regarding price range and computer usage.",
+    "topic6List": [
+        "Spring Boot",
+        "Hibernate",
+        "JDBC",
+        "Cookies",
+	"Java",
+	"JavaScript",
+        "Spring Security",
+        "Design patterns",
+        "React",
+        "Web Scraping",
+        "Jackson",
+        "MySQL"
+    ],
+
+    "topic7Title": "Boolean Algebra Visualizer",
+    "topic7Text": "Application that generates a visual representation of a boolean algebra problem",
+    "topic7List": [
+        "C++",
+        "Chain of Responsibility"
+    ],
+
+    "topicGamesTitle": "Hobbies",
+    "topicGamesText": "I used to make games since I was 13 on Media Molecules game making platforms. I have created games on pretty much every genre and some of them would get selected by Media Molecule to highlight unique or impressive games",
+    "topicGamesList": [
+        "Dreams",
+        "Logic",
+        "no-code"
+    ],
+
+    "privacyPolicy": "Privacy Policy",
+    "goodToKow": "Response time is likely to be relatively short",
+    "language": "Finnish",
+    "learn more": "GitHub",
+    "contact": "Contact",
+    "email": "tagir.tirkkonen@gmail.com",
+    "phone": "+358401865843",
+    "location": "Kajaani, Finland",
+    "email-name": "EMAIL",
+    "location-name": "LOCATION",
+    "phone-name": "PHONE",
+    "skills": "Skills",
+    "link-explain":"(may open slowly due to app sleeping on heroku)"
+}
