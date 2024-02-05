@@ -89,7 +89,10 @@ function Page({lang}) {
                   <img className="app-image app-pos2" src={iFolder+"/topicGames/dung.png"} alt=''></img>
                   <img className="app-image app-pos3" src={iFolder+"/topicGames/forloop.png"} alt=''></img>
               </div>
-              <TextBlock lang={lang} theme="topic" title={lang.topicGamesTitle} text={lang.topicGamesText} list={lang.topicGamesList} />
+	  <div>
+              <TextBlock lang={lang} theme="topic" theme2="max-width" title={lang.topicGamesTitle} text={lang.topicGamesText} list={lang.topicGamesList} />
+	<a href="https://www.youtube.com/watch?v=ZR5q9MCFXDc" target="_blank">{"Game example"} </a>
+	</div>	
             </div>
 
 

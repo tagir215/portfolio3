@@ -2,10 +2,10 @@ import React from "react";
 import './TextBlock.css';
 
 
-export default function({title,text,list, link,link2,link3,theme,lang}){
+export default function({title,text,list, link,link2,link3,theme, theme2, lang}){
     
     return(
-        <div className={"topic-content "+theme}>
+        <div className={"topic-content "+theme+" "+theme2}>
             <h1 className={theme+"-title"} >{title}</h1>
             
             <span className={theme+"-text"} >{text}</span>
