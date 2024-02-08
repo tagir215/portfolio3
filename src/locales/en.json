@@ -89,10 +89,27 @@
     ],
 
     "topic7Title": "Boolean Algebra Visualizer",
-    "topic7Text": "Application that generates a visual representation of a boolean algebra problem (Development Time: 1 week)",
+    "topic7Text": "Application that generates a visual representation of a boolean algebra problem (Development Time: 2 weeks)",
     "topic7List": [
         "C++",
         "Chain of Responsibility"
+    ],
+
+    "topic8Title": "Compiler (Ongoing)",
+    "topic8Text": "I am slowly building a C++ compiler. Currently I'm working on the Lexical Analyzer. Estimated develpment time is 1-2 years.",
+    "topic8List": [
+	    "C++",
+	    "Finete Automata",
+	    "Command Pattern"
+    ],
+
+    "topic9Title": "Game Engine (Ongoing)",
+    "topic9Title": "This is an ongoing School project, where we will build a Game Engine in groups. Since I'm speeding up my studies I'm currently working on the first version of the engine alone. Estimated development time 2-3 years",
+    "topic9List":[
+	    "C++",
+	    "Cmake",
+	    "OpenGL",
+	    "ECS"
     ],
 
     "topicGamesTitle": "Hobbies",
