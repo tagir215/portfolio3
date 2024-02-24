@@ -102,7 +102,7 @@ function Page({lang}) {
 	<a href="https://www.youtube.com/watch?v=ZR5q9MCFXDc&t=90s" target="_blank">{"Game example"} </a>
 	  <br></br>
 	<a href="https://www.youtube.com/watch?v=ePFGEmhvR9U&t=5540s" target="_blank">{"Game example 2"} </a>
-	<span style={{fontSize:10}}>This game is very ugly, and had some bugs with the stamina system because of the player using VR which I wasn't expecting, But I'm showcasing it because the player here says after 1 hour of playing the game that he would pay money for the game. Which I believe is a good sign that I can uses limited tools like dreams to create something of acceptable quality. </span>
+	<span style={{fontSize:10}}>This game is very ugly, and had some bugs with the stamina system because of the player using VR which I wasn't expecting, But I'm showcasing it because the player here says after 1 hour of playing the game that he would pay money for the game. Which I believe is a good sign that I can use limited tools to create something of acceptable quality. </span>
 	</div>	
             </div>
 
