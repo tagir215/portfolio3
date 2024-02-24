@@ -96,12 +96,13 @@ function Page({lang}) {
               <div className="images-container">
                   <img className="app-image" src={iFolder+"/topicGames/car.png"} alt=''></img>
                   <img className="app-image app-pos1" src={iFolder+"/topicGames/carlogic.png"} alt=''></img>
-                  <img className="app-image app-pos2" src={iFolder+"/topicGames/dung.png"} alt=''></img>
-                  <img className="app-image app-pos3" src={iFolder+"/topicGames/forloop.png"} alt=''></img>
               </div>
 	  <div>
               <TextBlock lang={lang} theme="topic" theme2="max-width" title={lang.topicGamesTitle} text={lang.topicGamesText} list={lang.topicGamesList} />
 	<a href="https://www.youtube.com/watch?v=ZR5q9MCFXDc" target="_blank">{"Game example"} </a>
+	  <br></br>
+	<a href="https://www.youtube.com/watch?v=ePFGEmhvR9U&t=5540s" target="_blank">{"Game example 2"} </a>
+	<span style={{fontSize:10}}>This game is very ugly, and had some bugs with the stamina system because of the player using VR which I wasn't expecting, But I'm showcasing it because the player here says after 1 hour of playing the game that he would pay money for the game. Which I believe is a good sign that I can uses limited tools like dreams to create something of acceptable quality. </span>
 	</div>	
             </div>
 
