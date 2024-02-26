@@ -3,7 +3,7 @@
     "topicPlus": "technology stack",
 
     "topic1Title": "Star Chat",
-    "topic1Text": "A chat application where all text is written in a Star Wars-inspired style. (Development time: 2 months)",
+    "topic1Text": "A chat application where all text is written in a Star Wars-inspired style. I didn't expect text rendering in OpenGL to be that difficult. (Development time: 2 months)",
     "topic1List": [
         "MVVM",
         "REST",
