@@ -96,6 +96,7 @@ function Page({lang}) {
               <div className="images-container">
                   <img className="app-image" src={iFolder+"/topicGames/car.png"} alt=''></img>
                   <img className="app-image app-pos1" src={iFolder+"/topicGames/dung.png"} alt=''></img>
+                  <img className="app-image app-pos1" src={iFolder+"/topicGames/comments0.png"} alt=''></img>
                   <img className="app-image app-pos1" src={iFolder+"/topicGames/comments4.png"} alt=''></img>
                   <img className="app-image app-pos1" src={iFolder+"/topicGames/comments2.png"} alt=''></img>
                   <img className="app-image app-pos1" src={iFolder+"/topicGames/comments3.png"} alt=''></img>
