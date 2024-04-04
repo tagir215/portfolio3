@@ -18,6 +18,14 @@ function Page({lang}) {
 
             <div className="content">
               <div className="images-container">
+                  <img className="app-image" src={iFolder+"/topic9/engine.png"} alt=''></img>
+                  <img className="app-image app-pos1" src={iFolder+"/topic9/engine2.png"} alt=''></img>
+              </div>
+              <TextBlock lang={lang} theme="topic" title={lang.topic9Title} text={lang.topic9Text} list={lang.topic9List} link={"https://github.com/tagir215/game_engine"}/>
+            </div>
+
+            <div className="content">
+              <div className="images-container">
                   <img className="app-image" src={iFolder+"/topic8/lexer.png"} alt=''></img>
                   <img className="app-image app-pos1" src={iFolder+"/topic8/lexer2.png"} alt=''></img>
               </div>
