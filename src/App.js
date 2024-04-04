@@ -21,7 +21,7 @@ function Page({lang}) {
                   <img className="app-image" src={iFolder+"/topic9/engine.png"} alt=''></img>
                   <img className="app-image app-pos1" src={iFolder+"/topic9/engine2.png"} alt=''></img>
               </div>
-              <TextBlock lang={lang} theme="topic" title={lang.topic9Title} text={lang.topic9Text} list={lang.topic9List} link={"https://github.com/tagir215/game_engine"}/>
+              <TextBlock lang={lang} theme="topic" title={lang.topic9Title} text={lang.topic9Text} list={lang.topic9List} link={"https://github.com/tagir215/game-engine"}/>
             </div>
 
             <div className="content">
